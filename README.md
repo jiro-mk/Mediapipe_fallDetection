@@ -7,18 +7,22 @@ MediaPipeで姿勢推定をし、立っている状態(standing)と転んでい�
 LSTMを用いて前30フレームの姿勢推定のキーポイントからstandingとfallのアクションを学習します。
 
 
+
 # データセット
 
 ・KFALL Dataset
 ・UR Fall Detection Dataset
 
+
+
 # DEMO
 
 姿勢、アクションの推定結果
 
-![tes1](https://user-images.githubusercontent.com/93971055/185788659-7b7a1b0f-0eb3-4274-bb27-20b7ea270938.gif)
+![tes1](https://user-images.githubusercontent.com/93971055/185789050-0bd1b8be-1a0c-47aa-ae07-a641634327db.gif)
 
-![tes0](https://user-images.githubusercontent.com/93971055/185788664-6d0883e1-7e56-4309-8bd7-261e60c97047.gif)
+![tes0](https://user-images.githubusercontent.com/93971055/185789072-58a3f6c6-42a9-4bf0-be2f-2c812902cae8.gif)
+
 
 
 
