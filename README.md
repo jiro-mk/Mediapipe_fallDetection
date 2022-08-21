@@ -14,12 +14,11 @@ LSTMを用いて前30フレームの姿勢推定のキーポイントからstand
 
 # DEMO
 
-静止画を用いた姿勢推定結果
+姿勢、アクションの推定結果
 
-![image](https://user-images.githubusercontent.com/93971055/155551785-a3e5e396-b629-4d05-902c-a0b31d0592df.png)
+![tes1](https://user-images.githubusercontent.com/93971055/185788659-7b7a1b0f-0eb3-4274-bb27-20b7ea270938.gif)
 
-
-![image](https://user-images.githubusercontent.com/93971055/155551886-d6efec69-b342-482b-8111-0cee91959efe.png)
+![tes0](https://user-images.githubusercontent.com/93971055/185788664-6d0883e1-7e56-4309-8bd7-261e60c97047.gif)
 
 
 
