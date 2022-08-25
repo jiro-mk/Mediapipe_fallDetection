@@ -1,8 +1,8 @@
 # Mediapipe_fallDetection
 
-MediaPipeで姿勢推定をし、立っている状態(standing)と転んでいる状態(fall)を推定します。
+MediaPipeで骨格推定し、立っている状態(standing)と転んでいる状態(fall)を推定します。
 
-はじめにMediapipeで姿勢推定をし、各アクションのキーポイントを保存します。
+はじめにMediapipeで骨格推定をし、各アクションのキーポイントを保存します。
 
 LSTMを用いて前30フレームの姿勢推定のキーポイントからstandingとfallのアクションを学習します。
 
